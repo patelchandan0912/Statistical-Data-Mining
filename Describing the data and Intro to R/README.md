@@ -33,4 +33,4 @@
 ### R Graph Gallery:
 ### http://rgraphgallery.blogspot.com.br/
 
-
+# All the basic codes, functions, plots and methods are explained in the intro to R file with comments inside it.
