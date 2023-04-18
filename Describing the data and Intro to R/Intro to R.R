@@ -6,7 +6,7 @@ rm(list=ls())
 5\4                                     # This should give you an error
 5^4
 5-4^2
-
+5+2/3
 # Functions
 sqrt(5)
 log(5)
